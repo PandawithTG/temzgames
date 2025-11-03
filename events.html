@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Temz Games | Events and News</title>
+ 
+<!-- ✅ 1. Azonnali háttér, hogy ne villanjon fehér -->
+  <style>
+    html {
+      background-color: #121212; /* sötét háttér még CSS betöltés előtt */
+    }
+  </style>
+
+  <!-- ✅ 2. Téma detektálása betöltés előtt -->
+  <script>
+    (function() {
+      const theme = localStorage.getItem('theme') || 'dark';
+      if (theme === 'light') {
+        document.documentElement.classList.add('light');
+        document.documentElement.style.backgroundColor = '#f4f4f4'; // világos háttérre vált azonnal
+      }
+    })();
+  </script>
+
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <h1>🐾 Temz Games</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="values.html">Value Lists</a>
+      <a href="events.html">Events and News</a>
+      <a href="staff.html">Staff</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+    <button id="themeToggle">🌙 Dark Mode</button>
+  </header>
+
+  <main>
+    <h2>Upcoming & Past Events, News</h2>
+    <div class="events-list">
+      <article class="event">
+        <h3>Halloween Pet Hunt</h3>
+        <p>Date: Oct 31, 2025</p>
+        <p>Reward: Exclusive Pumpkin Pet</p>
+      </article>
+      <article class="event">
+        <h3>Pet Simulator X Modded Update 17 🎃</h3>
+        <p>Date: 12th October 2025</p>
+      </article>
+      <article class="event">
+        <h3>Pet Simulator X Modded Update 16 🌌</h3>
+        <p>Date: 16th September 2025</p>
+      </article>
+      <article class="event">
+        <h3>Pet Simulator X Modded Update 15 2️⃣</h3>
+        <p>Date: 24th July 2025</p>
+      </article>
+      <article class="event">
+        <h3>Pet Simulator X Modded Update 14 🤫</h3>
+        <p>Date: 6th July 2025</p>
+      </article>
+      <article class="event">
+        <h3>Pet Simulator X Modded Update 13 🍔</h3>
+        <p>Date: 7th June 2025</p>
+      </article>
+      <article class="event">
+        <h3>Pet Simulator X Modded Update 12 ♾️</h3>
+        <p>Date: 19th April 2025</p>
+      </article>
+      <article class="event">
+        <h3>Pet Simulator X Modded Update 11 🃏</h3>
+        <p>Date: 6th March 2025</p>
+      </article>
+      <article class="event">
+        <h3>Pet Simulator X Modded Update 10 💘</h3>
+        <p>Date: 15th February 2025</p>
+      </article>
+      <article class="event">
+        <h3>Pet Simulator X Modded Update 9 🚀</h3>
+        <p>Date: 2nd February 2025</p>
+      </article>
+      <article class="event">
+        <h3>Pet Simulator X Modded Update 8 🦑</h3>
+        <p>Date: 16th January 2025</p>
+      </article>
+      <article class="event">
+        <h3>Pet Simulator X Modded Update 7 🎁</h3>
+        <p>Date: 30th December 2024</p>
+      </article>
+      <article class="event">
+        <h3>Pet Simulator X Modded Update 6 🥶</h3>
+        <p>Date: 29th December 2024</p>
+      </article>
+      <article class="event">
+        <h3>Pet Simulator X Modded Update 5 🎅</h3>
+        <p>Date: 22nd December 2024</p>
+      </article>
+      <article class="event">
+        <h3>Pet Simulator X Modded Update 4 🐈</h3>
+        <p>Date: 19th December 2024</p>
+      </article>
+      <article class="event">
+        <h3>Pet Simulator X Modded Update 3 🎄</h3>
+        <p>Date: 15th December 2024</p>
+      </article>
+      <article class="event">
+        <h3>Pet Simulator X Modded Update 2 ❄️</h3>
+        <p>Date: 10th December 2024</p>
+      </article>
+      <article class="event">
+        <h3>Pet Simulator X Modded Update 1 💪</h3>
+        <p>Date: 8th December 2024</p>
+      </article>
+      <article class="event">
+        <h3>Pet Simulator X Modded Release 🙂</h3>
+        <p>Date: 23rd November 2024</p>
+      </article>
+    </div>
+  </main>
+
+  <footer>
+    <p>© 2025 Temz Games | <a href="https://discord.gg/temzgames" target="_blank" rel="noopener">Discord</a></p>
+  </footer>
+
+  <script src="js/script.js"></script>
+  <script> if (typeof initTheme === 'function') initTheme(); </script>
+</body>
+</html>

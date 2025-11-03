@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Temz Games — Value Lists</title>
+
+  <style>
+    html { background-color: #121212; }
+  </style>
+
+  <script>
+    (function(){
+      const theme = localStorage.getItem('tg_theme') || 'dark';
+      if (theme === 'light') {
+        document.documentElement.classList.add('light-mode');
+        document.documentElement.style.backgroundColor = '#f4f4f4';
+      }
+    })();
+  </script>
+
+  <style>
+    :root{
+      --bg: #121212;
+      --card: #1f1f35;
+      --muted: #9aa0b3;
+      --accent: #6c63ff;
+      --text: #e9eef8;
+    }
+    .light-mode {
+      --bg: #f4f4f4;
+      --card: #ffffff;
+      --muted: #555;
+      --accent: #2b6cf6;
+      --text: #111;
+    }
+    *{box-sizing:border-box}
+    html,body{height:100%;margin:0;padding:0;background:var(--bg);color:var(--text);font-family:Inter,Segoe UI,Arial,sans-serif}
+    .container{max-width:1100px;margin:20px auto;padding:16px}
+
+    header.site-header{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:18px}
+    .logo{width:42px;height:42px;border-radius:8px;background:linear-gradient(135deg,var(--accent),#9b8bff);display:flex;align-items:center;justify-content:center;font-weight:700;color:#000000}
+    h1.site-title{font-size:1.25rem;margin:0}
+
+    nav.tabs{display:flex;gap:8px;margin-top:12px}
+    button.tab-btn{background:transparent;border:1px solid transparent;color:var(--text);padding:8px 12px;border-radius:8px;cursor:pointer}
+    button.tab-btn.active{background:var(--card);border-color:rgba(0, 0, 0, 0.04);box-shadow:0 2px 6px rgba(0,0,0,0.35)}
+
+    .controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:14px 0}
+    .controls input[type="search"], .controls select{padding:8px 10px;border-radius:8px;border:none;min-width:180px;background:rgba(0, 0, 0);color:var(--text)}
+    .controls button#themeToggle{padding:8px 10px;border-radius:8px;border:none;cursor:pointer;background:var(--accent);color:#fff}
+
+    #listWrap{display:block}
+    .pet-card{background:var(--card);border-radius:12px;padding:12px;margin-bottom:12px;box-shadow:0 4px 12px rgba(0, 0, 0, 0.25);display:flex;gap:12px;align-items:flex-start}
+    .pet-thumb{width:84px;height:84px;border-radius:10px;background:#000;flex-shrink:0;overflow:hidden;display:flex;align-items:center;justify-content:center}
+    .pet-thumb img{width:100%;height:100%;object-fit:cover;display:block}
+    .pet-body{flex:1}
+    .pet-title{margin:0;font-size:1rem}
+    .pet-meta{color:var(--muted);font-size:0.85rem;margin-top:6px}
+
+    details{margin-top:10px;border-left:4px solid rgba(255,255,255,0.03);padding-left:10px}
+    summary{cursor:pointer;list-style:none;display:flex;align-items:center;gap:8px}
+    summary::-webkit-details-marker{display:none}
+    .arrow{transition:transform .25s ease}
+    details[open] .arrow{transform:rotate(180deg)}
+    .variant-item{padding:8px 10px;border-radius:8px;background:rgba(0,0,0,0.06);margin-bottom:8px;color:var(--text);display:flex;justify-content:space-between;align-items:center}
+    .variant-name{font-weight:600}
+    .variant-value{color:var(--muted);font-size:0.95rem}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <div class="brand">
+        <div class="logo">TG</div>
+        <div>
+          <h1 class="site-title">Temz Games — Value Lists</h1>
+          <nav class="tabs">
+            <button class="tab-btn active" data-game="ps99">Pet Simulator 99 X Modded 2</button>
+            <button class="tab-btn" data-game="remastered">Pet Simulator X: Remastered</button>
+          </nav>
+        </div>
+      </div>
+      <div class="controls">
+        <input id="search" type="search" placeholder="Search pet name...">
+        <select id="categoryFilter">
+          <option value="all">All categories</option>
+          <option>Huges/Titanics</option>
+          <option>Exclusive</option>
+          <option>Stat pets</option>
+        </select>
+        <button id="themeToggle">🌙 Dark Mode</button>
+      </div>
+    </header>
+
+    <main>
+      <div id="listWrap"></div>
+    </main>
+    <footer style="margin-top:18px;color:var(--muted);font-size:0.9rem">
+      <p>Join our Discord: <a href="https://discord.gg/temzgames" target="_blank" style="color:var(--accent)">temzgames</a></p>
+    </footer>
+  </div>
+
+  <script>
+    const tabs = document.querySelectorAll('.tab-btn');
+    const listWrap = document.getElementById('listWrap');
+    const searchInput = document.getElementById('search');
+    const categoryFilter = document.getElementById('categoryFilter');
+    const themeToggle = document.getElementById('themeToggle');
+    let activeGame = 'ps99';
+    let DATA = { ps99: [], remastered: [] };
+
+    async function loadData() {
+      const [ps99Data, remData] = await Promise.all([
+        fetch('data/pets_ps99.json').then(r=>r.json()),
+        fetch('data/pets_remastered.json').then(r=>r.json())
+      ]);
+      DATA.ps99 = ps99Data;
+      DATA.remastered = remData;
+      renderList();
+    }
+
+    function renderList() {
+      const raw = DATA[activeGame] || [];
+      const q = (searchInput.value || '').toLowerCase();
+      const categoryVal = categoryFilter.value || 'all';
+      const filtered = raw.filter(p=>{
+        const matchesName = p.name.toLowerCase().includes(q);
+        const matchescategory = categoryVal === 'all' || p.category === categoryVal;
+        return matchesName && matchescategory;
+      });
+
+      listWrap.innerHTML = '';
+      if (!filtered.length) {
+        listWrap.innerHTML = '<p style="color:var(--muted);padding:12px">No pets found.</p>';
+        return;
+      }
+
+      filtered.forEach(pet=>{
+        const card = document.createElement('article');
+        card.className = 'pet-card';
+        card.innerHTML = `
+          <div class="pet-thumb"><img src="${pet.image}" alt="${pet.name}"></div>
+          <div class="pet-body">
+            <h3 class="pet-title">${pet.name}</h3>
+            <div class="pet-meta">category: ${pet.category || '—'} • Base value: ${pet.variants?.Base ?? '—'}</div>
+            <details>
+              <summary><span>Show variants</span><span class="arrow" style="margin-left:8px">▼</span></summary>
+              <div style="margin-top:8px">
+                ${Object.entries(pet.variants || {}).map(([k,v])=>`
+                  <div class="variant-item">
+                    <div class="variant-name">${k} ${pet.name}</div>
+                    <div class="variant-value">${v}</div>
+                  </div>`).join('')}
+              </div>
+            </details>
+          </div>`;
+        listWrap.appendChild(card);
+      });
+    }
+
+    tabs.forEach(btn=>{
+      btn.addEventListener('click',()=>{
+        tabs.forEach(b=>b.classList.remove('active'));
+        btn.classList.add('active');
+        activeGame = btn.getAttribute('data-game');
+        searchInput.value=''; categoryFilter.value='all';
+        renderList();
+      });
+    });
+
+    searchInput.addEventListener('input',renderList);
+    categoryFilter.addEventListener('change',renderList);
+
+    function initTheme(){
+      const t = localStorage.getItem('tg_theme') || 'dark';
+      document.documentElement.classList.toggle('light-mode',t==='light');
+      themeToggle.textContent = t==='light'?'🌞 Light Mode':'🌙 Dark Mode';
+    }
+    themeToggle.addEventListener('click',()=>{
+      const isLight = document.documentElement.classList.toggle('light-mode');
+      localStorage.setItem('tg_theme', isLight?'light':'dark');
+      initTheme();
+    });
+
+    initTheme();
+    loadData();
+  </script>
+</body>
+</html>

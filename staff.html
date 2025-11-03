@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Temz Games | Staff</title>
+   
+<!-- ✅ 1. Azonnali háttér, hogy ne villanjon fehér -->
+  <style>
+    html {
+      background-color: #121212; /* sötét háttér még CSS betöltés előtt */
+    }
+  </style>
+
+  <!-- ✅ 2. Téma detektálása betöltés előtt -->
+  <script>
+    (function() {
+      const theme = localStorage.getItem('theme') || 'dark';
+      if (theme === 'light') {
+        document.documentElement.classList.add('light');
+        document.documentElement.style.backgroundColor = '#f4f4f4'; // világos háttérre vált azonnal
+      }
+    })();
+  </script>
+
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <h1>🐾 Temz Games</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="values.html">Value Lists</a>
+      <a href="events.html">Events and News</a>
+      <a href="staff.html">Staff</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+    <button id="themeToggle">🌙 Dark Mode</button>
+  </header>
+
+  <main>
+    <h2>Current Staff Members</h2>
+    <div class="staff-grid">
+      <div class="staff-card">
+        <img src="https://cdn.discordapp.com/avatars/886186683677155341/be9fc721890d5a72e648d65a3c738a4c.webp?size=1024" alt="Staff Avatar" />
+        <h3>Temz</h3>
+        <p>Owner</p>
+      </div>
+      <div class="staff-card">
+        <img src="https://cdn.discordapp.com/avatars/1043152811677974688/ee1b5a9a6f080f9428eda808031bca61.webp?size=1024" alt="Staff Avatar" />
+        <h3>Hecker</h3>
+        <p>Community Manager</p>
+      </div>
+      <div class="staff-card">
+        <img src="https://cdn.discordapp.com/avatars/928970650339672095/4dc939e2b772583925d2aec872142936.webp?size=1024" alt="Staff Avatar" />
+        <h3>Kpeasy</h3>
+        <p>Administrator</p>
+      </div>
+      <div class="staff-card">
+        <img src="https://cdn.discordapp.com/avatars/814164386377760778/6b1ff004e9b68372bc083ffed20b3fd0.webp?size=1024" alt="Staff Avatar" />
+        <h3>Zeo</h3>
+        <p>Senior Moderator</p>
+      </div>
+    </div>
+    <div class="staff-grid">
+      <div class="staff-card">
+        <img src="https://cdn.discordapp.com/avatars/1337315340756979742/163e06a26f480ab00f6339c18dd752ef.webp?size=1024" alt="Staff Avatar" />
+        <h3>Panda</h3>
+        <p>Senior Moderator</p>
+      </div>
+      <div class="staff-card">
+        <img src="https://cdn.discordapp.com/avatars/1254003173606166569/e5bf71d5171d5932adeedbc6257d69eb.webp?size=1024" alt="Staff Avatar" />
+        <h3>Jxri</h3>
+        <p>Moderator</p>
+      </div>
+      <div class="staff-card">
+        <img src="https://cdn.discordapp.com/avatars/1214406741588971520/a560c6d9ac23aaa6256613d160ca67ca.webp?size=1024" alt="Staff Avatar" />
+        <h3>Tundra</h3>
+        <p>Moderator</p>
+      </div>
+      <div class="staff-card">
+        <img src="https://cdn.discordapp.com/avatars/1207674393120215162/e2d956d599aac1c1f73d4a6516cda7c2.webp?size=1024" alt="Staff Avatar" />
+        <h3>PurpleFace</h3>
+        <p>Moderator</p>
+      </div>
+    </div>
+    <div class="staff-grid">
+      <div class="staff-card">
+        <img src="https://cdn.discordapp.com/avatars/1201695752842125355/e16b3fe5e10d8bbd51487ef8eaf167d1.webp?size=1024" alt="Staff Avatar" />
+        <h3>Axerew</h3>
+        <p>Moderator</p>
+      </div>
+      <div class="staff-card">
+        <img src="https://cdn.discordapp.com/avatars/957705118151737415/8565a6bbda45285162a7d5340033b929.webp?size=1024" alt="Staff Avatar" />
+        <h3>Teto</h3>
+        <p>Trial Moderator</p>
+      </div>
+      <div class="staff-card">
+        <img src="https://cdn.discordapp.com/avatars/1343619513597300828/e5607bab41e4b0e79fc7d5142f35d7a6.webp?size=1024" alt="Staff Avatar" />
+        <h3>Walmart Cart</h3>
+        <p>Trial Moderator</p>
+      </div>
+      <div class="staff-card">
+        <img src="https://cdn.discordapp.com/avatars/389697292996706315/5cdea771ea29603acf66f072a21cd5c0.webp?size=1024" alt="Staff Avatar" />
+        <h3>KarmaKlubPSX</h3>
+        <p>Trial Moderator</p>
+      </div>
+    </div>
+    <h2>Ex-Staff Members</h2>
+
+
+  </main>
+
+  <footer>
+    <p>© 2025 Temz Games | <a href="https://discord.gg/temzgames" target="_blank" rel="noopener">Discord</a></p>
+  </footer>
+
+  <script src="js/script.js"></script>
+  <script> if (typeof initTheme === 'function') initTheme(); </script>
+</body>
+</html>

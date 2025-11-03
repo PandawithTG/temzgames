@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Pet Simulator X: Remastered | Value List</title>
+  
+<!-- ✅ 1. Azonnali háttér, hogy ne villanjon fehér -->
+  <style>
+    html {
+      background-color: #121212; /* sötét háttér még CSS betöltés előtt */
+    }
+  </style>
+
+  <!-- ✅ 2. Téma detektálása betöltés előtt -->
+  <script>
+    (function() {
+      const theme = localStorage.getItem('theme') || 'dark';
+      if (theme === 'light') {
+        document.documentElement.classList.add('light');
+        document.documentElement.style.backgroundColor = '#f4f4f4'; // világos háttérre vált azonnal
+      }
+    })();
+  </script>
+
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body class="theme-remastered">
+  <header>
+    <h1>🐾 Pet Simulator X: Remastered - Value List</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="values.html">Value Lists</a>
+      <a href="events.html">Events and News</a>
+      <a href="staff.html">Staff</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+    <button id="themeToggle">🌙 Dark Mode</button>
+  </header>
+
+  <main>
+    <div class="controls">
+      <input type="text" id="search" placeholder="🔍 Search by pet name..." />
+      <select id="categoryFilter">
+        <option value="all">All categories</option>
+          <option>Huges/Titanics</option>
+          <option>Exclusives</option>
+          <option>Stat pets</option>
+      </select>
+    </div>
+
+    <div id="pet-list" class="grid"></div>
+  </main>
+
+  <footer>
+    <p>Last updated: <span id="lastUpdated"></span> | <a href="https://discord.gg/temzgames" target="_blank" rel="noopener">Join our Discord</a></p>
+  </footer>
+
+  <script src="js/script.js"></script>
+  <script>
+    loadPets('data/pets_remastered.json');
+    if (typeof initTheme === 'function') initTheme();
+  </script>
+</body>
+</html>
