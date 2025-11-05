@@ -46,6 +46,26 @@
     .variant-name{font-weight:600}
     .variant-value{color:var(--muted);font-size:0.95rem}
   </style>
+
+  <script>
+  // Fallback: ha initTheme nem létezik, definiáljuk.
+  // Ez megakadályozza a "initTheme is not defined" hibát.
+  if (typeof window.initTheme !== 'function') {
+    window.initTheme = function() {
+      // Alapértelmezett: dark mode
+      try {
+        document.documentElement.classList.remove('light-mode');
+        // ha localStorage-ot használsz, frissítjük
+        localStorage.setItem('tg_theme', 'dark');
+      } catch (e) {
+        // semmi — ha nem elérhető localStorage, továbbmegyünk
+      }
+    };
+  }
+  // Azonnal futtatjuk, ha esetleg korábban elvárták, hogy lefusson.
+  window.initTheme();
+</script>
+
 </head>
 <body>
   <div class="container">
