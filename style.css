@@ -57,7 +57,7 @@ header, footer {
 .theme-ps99 { --accent: #4da6ff; }
 .theme-remastered { --accent: #b266ff; }
 
-*{box-sizing:20px}
+*{box-sizing:border-box}
 body{
   font-family: Inter, Poppins, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
   background-color: var(--bg-color);
