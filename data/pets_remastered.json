@@ -1,17 +1,20 @@
-{
-  "Gigantamax OG Cat": {
-    "base": "4.9q",
+[
+  {
+    "name": "Gigantamax OG Cat",
+    "category": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Gold": "8.9q",
-      "Rainbow": "10.1q",
-      "Shiny": "12.3q"
+      "Base": "4B",
+      "Golden": "9B",
+      "Rainbow": "34B"
     }
   },
-  "Huge Dog": {
-    "base": "2.1q",
+  {
+    "name": "Rainbow Gigantamax OG Cat",
+    "category": "Exclusive",
+    "image": "images/gigantamax_rainbow.png",
     "variants": {
-      "Gold": "3.9q",
-      "Rainbow": "4.5q"
+      "Base": "34B"
     }
   }
-}
+]
