@@ -4,8 +4,19 @@ async function loadPets(file) {
   try {
     const res = await fetch(file);
     if (!res.ok) throw new Error('Failed to load data: ' + res.status);
+
     const pets = await res.json();
+
+    // ✅ Ide kell a console.log
+    console.log(pets); // Most már tényleg látod a betöltött adatokat
+
     renderPets(pets);
+  } catch (err) {
+    console.error(err);
+    const petList = document.getElementById('pet-list');
+    if (petList) petList.innerHTML = '<p style="padding:12px">Could not load pet data.</p>';
+  }
+}
 
     const searchInput = document.getElementById('search');
     const categoryFilter = document.getElementById('categoryFilter');
