@@ -16,7 +16,7 @@
   {
     "name": "Huge Three Headed Dragon",
     "category": "Huges",
-    "rarity": "Titanic",
+    "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "?",
@@ -30,7 +30,7 @@
   {
     "name": "Huge Temz Maskot",
     "category": "Huges",
-    "rarity": "Titanic",
+    "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "?",
@@ -44,7 +44,7 @@
   {
     "name": "Huge Slasher Sloth",
     "category": "Huges",
-    "rarity": "Titanic",
+    "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "?",
@@ -58,7 +58,7 @@
   {
     "name": "Huge Pumpkin Dog",
     "category": "Huges",
-    "rarity": "Titanic",
+    "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "?",
@@ -72,7 +72,7 @@
   {
     "name": "Huge Pumpkin Cat",
     "category": "Huges",
-    "rarity": "Titanic",
+    "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "?",
@@ -86,7 +86,7 @@
   {
     "name": "Huge Party Cat",
     "category": "Huges",
-    "rarity": "Titanic",
+    "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "?",
@@ -100,7 +100,7 @@
   {
     "name": "Huge Panda",
     "category": "Huges",
-    "rarity": "Titanic",
+    "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "?",
@@ -114,7 +114,7 @@
   {
     "name": "Huge Machete Dog",
     "category": "Huges",
-    "rarity": "Titanic",
+    "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "?",
@@ -128,7 +128,7 @@
   {
     "name": "Huge Blurred Dominus",
     "category": "Huges",
-    "rarity": "Titanic",
+    "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "?",
@@ -140,9 +140,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusive",
-    "rarity": "Titanic",
+    "name": "Doge",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "4B",
@@ -154,8 +154,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusive",
+    "name": "Chest Mimic",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "4B",
@@ -167,8 +168,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusive",
+    "name": "Ghost Cat",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "4B",
@@ -180,8 +182,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusive",
+    "name": "Dominus Astra",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "4B",
@@ -193,8 +196,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusive",
+    "name": "Nightmare Hubert",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "4B",
@@ -206,8 +210,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusive",
+    "name": "Frankenpup Dog",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "4B",
@@ -219,8 +224,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusive",
+    "name": "Dominus Darkwing",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "4B",
@@ -232,8 +238,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusive",
+    "name": "Calico Cat",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "4B",
@@ -245,8 +252,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusive",
+    "name": "Cappuccina Brainrot",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "4B",
@@ -258,8 +266,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusive",
+    "name": "Party Cat",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "4B",
@@ -271,8 +280,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusive",
+    "name": "Reaper",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "4B",
@@ -284,8 +294,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusive",
+    "name": "Slasher Sloth",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "4B",
@@ -297,8 +308,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusive",
+    "name": "Cannibal Meerkat",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "4B",
@@ -310,8 +322,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusive",
+    "name": "Booster Agony",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "4B",
@@ -323,8 +336,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusive",
+    "name": "Egg Chick",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "4B",
@@ -336,8 +350,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusive",
+    "name": "Hubert",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "4B",
@@ -349,8 +364,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusive",
+    "name": "Machete Dog",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "4B",
@@ -362,8 +378,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusive",
+    "name": "Signature Temz Maskot",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "4B",
@@ -375,8 +392,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusive",
+    "name": "Tralala Brainrot",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Normal": "4B",
