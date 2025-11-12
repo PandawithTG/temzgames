@@ -6,9 +6,9 @@
     "variants": {
       "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
-      "Shiny": "?"
-      "Shiny Golden": "?"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
   },
