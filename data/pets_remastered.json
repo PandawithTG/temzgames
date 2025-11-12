@@ -406,9 +406,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusives",
-    "rarity": "Exclusive",
+    "name": "Ghoul Horse",
+    "category": "Stat pets",
+    "rarity": "Superior",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "4B",
@@ -420,9 +420,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusives",
-    "rarity": "Exclusive",
+    "name": "Wyvern of Hades",
+    "category": "Stat pets",
+    "rarity": "Divine",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "4B",
@@ -434,9 +434,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusives",
-    "rarity": "Exclusive",
+    "name": "Reaper Cat",
+    "category": "Stat pets",
+    "rarity": "Divine",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "4B",
@@ -448,9 +448,9 @@
     }
   },
   {
-    "name": "a",
-    "category": "Exclusives",
-    "rarity": "Exclusive",
+    "name": "Domortuus",
+    "category": "Stat pets",
+    "rarity": "Exotic",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "4B",
