@@ -4,9 +4,12 @@
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
       "Rainbow": "34B"
+      "Shiny": "?"
+      "Shiny Golden": "?"
+      "Shiny Rainbow": "?"
     }
   },
   {
