@@ -1,5 +1,135 @@
 [
   {
+    "name": "Titanic Ghostface Cat",
+    "category": "Titanics",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Normal": "?",
+      "Golden": "?",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Huge Three Headed Dragon",
+    "category": "Huges",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Normal": "?",
+      "Golden": "?",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Huge Temz Maskot",
+    "category": "Huges",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Normal": "?",
+      "Golden": "?",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Huge Slasher Sloth",
+    "category": "Huges",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Normal": "?",
+      "Golden": "?",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Huge Pumpkin Dog",
+    "category": "Huges",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Normal": "?",
+      "Golden": "?",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Huge Pumpkin Cat",
+    "category": "Huges",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Normal": "?",
+      "Golden": "?",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Huge Party Cat",
+    "category": "Huges",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Normal": "?",
+      "Golden": "?",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Huge Panda",
+    "category": "Huges",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Normal": "?",
+      "Golden": "?",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Huge Machete Dog",
+    "category": "Huges",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Normal": "?",
+      "Golden": "?",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Huge Blurred Dominus",
+    "category": "Huges",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Normal": "?",
+      "Golden": "?",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
     "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -13,311 +143,289 @@
     }
   },
   {
-    "name": "b",
-    "category": "Exclusive",
-    "image": "images/gigantamax_rainbow.png",
-    "variants": {
-      "Base": "34B"
-    }
-  },
-    {
-    "name": "ct",
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   },
-    {
-    "name": "d",
+  {
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   },
-    {
-    "name": "e",
+  {
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   },
-    {
-    "name": "f",
+  {
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   },
-    {
-    "name": "g",
+  {
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   },
-    {
-    "name": "h",
+  {
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   },
-    {
-    "name": "i",
+  {
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   },
-    {
-    "name": "j",
+  {
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   },
-    {
-    "name": "k",
+  {
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   },
-    {
-    "name": "l",
+  {
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   },
-    {
-    "name": "m",
+  {
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   },
-    {
-    "name": "n",
+  {
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   },
-    {
-    "name": "o",
+  {
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   },
-    {
-    "name": "p",
+  {
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   },
-    {
-    "name": "q",
+  {
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   },
-    {
-    "name": "r",
+  {
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   },
-      {
-    "name": "q",
+  {
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   },
-      {
-    "name": "q",
+  {
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   },
-      {
-    "name": "q",
+  {
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   },
-      {
-    "name": "q",
+  {
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   },
-      {
-    "name": "q",
+  {
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   },
-      {
-    "name": "q",
+  {
+    "name": "a",
     "category": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "4B",
+      "Normal": "4B",
       "Golden": "9B",
-      "Rainbow": "34B"
-    }
-  },
-      {
-    "name": "q",
-    "category": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "4B",
-      "Golden": "9B",
-      "Rainbow": "34B"
-    }
-  },
-      {
-    "name": "q",
-    "category": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "4B",
-      "Golden": "9B",
-      "Rainbow": "34B"
-    }
-  },
-      {
-    "name": "q",
-    "category": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "4B",
-      "Golden": "9B",
-      "Rainbow": "34B"
-    }
-  },
-      {
-    "name": "q",
-    "category": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "4B",
-      "Golden": "9B",
-      "Rainbow": "34B"
-    }
-  },
-      {
-    "name": "q",
-    "category": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "4B",
-      "Golden": "9B",
-      "Rainbow": "34B"
-    }
-  },
-      {
-    "name": "q",
-    "category": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "4B",
-      "Golden": "9B",
-      "Rainbow": "34B"
-    }
-  },
-      {
-    "name": "q",
-    "category": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "4B",
-      "Golden": "9B",
-      "Rainbow": "34B"
-    }
-  },
-      {
-    "name": "q",
-    "category": "Exclusive",
-    "image": "images/gigantamax_ogcat.png",
-    "variants": {
-      "Base": "4B",
-      "Golden": "9B",
-      "Rainbow": "34B"
+      "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
     }
   }
 ]
