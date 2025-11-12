@@ -44,7 +44,7 @@ function renderPets(pets) {
     div.innerHTML = `
       <img src="${pet.image}" alt="${pet.name}">
       <h3>${pet.name}</h3>
-      <p>⭐ ${pet.category} ${pet.rarity ? `• ${pet.rarity}` : ''}</p>
+      <p>⭐ ${pet.category} ${pet.rarity ? `• 🌀 ${pet.rarity}` : ''}</p>
       <p>💰 Value: ${pet.value}</p>
     `;
     petList.appendChild(div);
