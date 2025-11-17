@@ -644,9 +644,23 @@
     }
   },
   {
-    "name": "?",
+    "name": "Cupcake",
     "category": "Stat pets",
-    "rarity": "?",
+    "rarity": "Divine",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "0",
+      "Golden": "0",
+      "Rainbow": "0",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Cupcake Pegasus",
+    "category": "Stat pets",
+    "rarity": "Superior",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "0",
