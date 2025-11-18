@@ -6,7 +6,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1b",
-      "Golden": "?",
+      "Golden": "3b",
       "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -104,7 +104,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "35m",
-      "Golden": "?",
+      "Golden": "105m",
       "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -118,7 +118,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "63m",
-      "Golden": "?",
+      "Golden": "189m",
       "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -132,7 +132,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "65m",
-      "Golden": "?",
+      "Golden": "195m",
       "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -146,7 +146,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "61m",
-      "Golden": "?",
+      "Golden": "183m",
       "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -160,7 +160,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "45m",
-      "Golden": "?",
+      "Golden": "135m",
       "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -174,7 +174,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "64m",
-      "Golden": "?",
+      "Golden": "192m",
       "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -188,7 +188,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "25m",
-      "Golden": "?",
+      "Golden": "75m",
       "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -202,7 +202,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "75m",
-      "Golden": "?",
+      "Golden": "225m",
       "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -216,7 +216,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "18m",
-      "Golden": "?",
+      "Golden": "54m",
       "Rainbow": "?",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -342,7 +342,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "4.2m",
-      "Golden": "9B",
+      "Golden": "12.6m",
       "Rainbow": "34B",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -356,7 +356,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "4.5m",
-      "Golden": "9B",
+      "Golden": "13.5m",
       "Rainbow": "34B",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -370,7 +370,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "5.4m",
-      "Golden": "9B",
+      "Golden": "16.2m",
       "Rainbow": "34B",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -384,7 +384,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "7m",
-      "Golden": "9B",
+      "Golden": "21m",
       "Rainbow": "34B",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -398,7 +398,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "6m",
-      "Golden": "9B",
+      "Golden": "18m",
       "Rainbow": "34B",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -412,7 +412,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "4m",
-      "Golden": "9B",
+      "Golden": "12m",
       "Rainbow": "34B",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -426,7 +426,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "4.5m",
-      "Golden": "9B",
+      "Golden": "13.5m",
       "Rainbow": "34B",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -440,7 +440,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1.1m",
-      "Golden": "9B",
+      "Golden": "3.3m",
       "Rainbow": "34B",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -454,7 +454,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "800k",
-      "Golden": "9B",
+      "Golden": "2.4m",
       "Rainbow": "34B",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -482,7 +482,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1.1m",
-      "Golden": "9B",
+      "Golden": "3.3m",
       "Rainbow": "34B",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -496,7 +496,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1.4m",
-      "Golden": "9B",
+      "Golden": "4.2m",
       "Rainbow": "34B",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -510,7 +510,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "6.8m",
-      "Golden": "9B",
+      "Golden": "20.4m",
       "Rainbow": "34B",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -524,7 +524,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
      "Base": "8m",
-      "Golden": "9B",
+      "Golden": "24m",
       "Rainbow": "34B",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -538,7 +538,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "9m",
-      "Golden": "9B",
+      "Golden": "27m",
       "Rainbow": "34B",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -552,7 +552,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "3.1m",
-      "Golden": "9B",
+      "Golden": "9.3m",
       "Rainbow": "34B",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -566,7 +566,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "6.5m",
-      "Golden": "9B",
+      "Golden": "19.5m",
       "Rainbow": "34B",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -580,7 +580,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1.3m",
-      "Golden": "9B",
+      "Golden": "3.9m",
       "Rainbow": "34B",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -594,7 +594,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "1.2m",
-      "Golden": "9B",
+      "Golden": "3.6m",
       "Rainbow": "34B",
       "Shiny": "?",
       "Shiny Golden": "?",
@@ -608,7 +608,7 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "150k",
-      "Golden": "0",
+      "Golden": "450k",
       "Rainbow": "0",
       "Shiny": "?",
       "Shiny Golden": "?",
