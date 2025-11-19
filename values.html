@@ -107,7 +107,17 @@
     const categoryFilter = document.getElementById('categoryFilter');
     const themeToggle = document.getElementById('themeToggle');
     let activeGame = 'ps99';
+    const CATEGORY_SETS = {
+    ps99: ["Galactics", "Chromatics", "Colossals", "Gigantics"],
+    remastered: ["Titanics", "Huges", "Exclusives", "Stat pets"]
+    };
     let DATA = { ps99: [], remastered: [] };
+    function updateCategoryFilter() {
+    const categories = CATEGORY_SETS[activeGame] || [];
+    categoryFilter.innerHTML =
+    `<option value="all">All categories</option>` +
+    categories.map(c => `<option>${c}</option>`).join('');
+    }
 
     async function loadData() {
       const [ps99Data, remData] = await Promise.all([
@@ -159,14 +169,20 @@
     }
 
     tabs.forEach(btn=>{
-      btn.addEventListener('click',()=>{
-        tabs.forEach(b=>b.classList.remove('active'));
-        btn.classList.add('active');
-        activeGame = btn.getAttribute('data-game');
-        searchInput.value=''; categoryFilter.value='all';
-        renderList();
-      });
-    });
+  btn.addEventListener('click',()=>{
+    tabs.forEach(b=>b.classList.remove('active'));
+    btn.classList.add('active');
+    
+    activeGame = btn.getAttribute('data-game');
+
+    updateCategoryFilter();
+
+    searchInput.value = '';
+    categoryFilter.value = 'all';
+
+    renderList();
+  });
+});
 
     searchInput.addEventListener('input',renderList);
     categoryFilter.addEventListener('change',renderList);
