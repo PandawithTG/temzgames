@@ -3,7 +3,7 @@
     "name": "Titanic Ghostface Cat",
     "category": "Titanics",
     "rarity": "Titanic",
-    "image": "images/gigantamax_ogcat.png",
+    "image": "https://images-ext-1.discordapp.net/external/elJpOmYipJp037_6DP9pV7KFsXzvqhcBvrtG5eGhJ9w/https/tr.rbxcdn.com/180DAY-58088937a2a1284a08acba91eb414afe/420/420/Image/Png/noFilter?format=png&width=525&height=525",
     "variants": {
       "Base": "1b",
       "Golden": "3b",
@@ -45,7 +45,7 @@
     "name": "Huge Rockstar Hubert",
     "category": "Huges",
     "rarity": "Huge",
-    "image": "images/gigantamax_ogcat.png",
+    "image": "https://images-ext-1.discordapp.net/external/hBAAZITZbuHFKM8_HguRAx8rM12ugZirp1qe9XGZYdI/https/tr.rbxcdn.com/180DAY-829c16ebfdc2be8eba4cb89aa723bda3/420/420/Image/Png/noFilter?format=png&width=525&height=525",
     "variants": {
       "Base": "?",
       "Golden": "?",
@@ -59,7 +59,7 @@
     "name": "Huge Rockstar Wicked Angelus",
     "category": "Huges",
     "rarity": "Huge",
-    "image": "images/gigantamax_ogcat.png",
+    "image": "https://images-ext-1.discordapp.net/external/c-yuKhf1hIBvbdjmU-pA7JQ5GV4vFPV6YpVq-rudfTM/https/tr.rbxcdn.com/180DAY-93546590f4e000c49cf14661df17889b/420/420/Image/Png/noFilter?format=png&width=525&height=525",
     "variants": {
       "Base": "?",
       "Golden": "?",
@@ -87,7 +87,21 @@
     "name": "Huge Chameleon",
     "category": "Huges",
     "rarity": "Huge",
-    "image": "images/gigantamax_ogcat.png",
+    "image": "https://images-ext-1.discordapp.net/external/R5Um9n6QCbFkHlwNPcYGTgw0-ZLsdVhW1rzV-zWRTpU/https/tr.rbxcdn.com/180DAY-cfeca886dd40d4392f9c1d05b6b57076/420/420/Image/Png/noFilter?format=png&width=525&height=525",
+    "variants": {
+      "Base": "?",
+      "Golden": "?",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Huge Enchanted Dog",
+    "category": "Huges",
+    "rarity": "Huge",
+    "image": "https://images-ext-1.discordapp.net/external/LSk_0vNjon3Ti1eiO95PR8iyJKnEFKPVs4dkNgFCqiQ/https/tr.rbxcdn.com/180DAY-aaddcddf8048bd4c4da608924bf6b4e6/420/420/Image/Png/noFilter?format=png&width=525&height=525",
     "variants": {
       "Base": "?",
       "Golden": "?",
@@ -101,7 +115,7 @@
     "name": "Huge Three Headed Dragon",
     "category": "Huges",
     "rarity": "Huge",
-    "image": "images/gigantamax_ogcat.png",
+    "image": "https://images-ext-1.discordapp.net/external/wTTCAawkCfD--UYCPg0JqJpyn8mn5vtn44NNsQVr6HI/https/tr.rbxcdn.com/180DAY-04f8c1539fe0057b6544d3c72e22d976/420/420/Image/Png/noFilter?format=png&width=525&height=525",
     "variants": {
       "Base": "35m",
       "Golden": "105m",
@@ -115,7 +129,7 @@
     "name": "Huge Temz Maskot",
     "category": "Huges",
     "rarity": "Huge",
-    "image": "images/gigantamax_ogcat.png",
+    "image": "https://images-ext-1.discordapp.net/external/_IBfXTB5w0v7H62iNmGYrH-8EZC3AWxAAJCUZ_2zyLE/https/tr.rbxcdn.com/180DAY-eb36fa186c67ec4d0c0e461bed9cc754/420/420/Image/Png/noFilter?format=png&width=525&height=525",
     "variants": {
       "Base": "80m",
       "Golden": "240m",
@@ -129,7 +143,7 @@
     "name": "Huge Slasher Sloth",
     "category": "Huges",
     "rarity": "Huge",
-    "image": "images/gigantamax_ogcat.png",
+    "image": "https://images-ext-1.discordapp.net/external/T4_ZEyV2XWLJtVslsxAvxsb3aAsG13tMPEf2ZXKOGCk/https/tr.rbxcdn.com/180DAY-3d6f0a0f18b23146efb15eac9049443f/420/420/Image/Png/noFilter?format=png&width=525&height=525",
     "variants": {
       "Base": "65m",
       "Golden": "195m",
@@ -143,7 +157,7 @@
     "name": "Huge Pumpkin Dog",
     "category": "Huges",
     "rarity": "Huge",
-    "image": "images/gigantamax_ogcat.png",
+    "image": "https://images-ext-1.discordapp.net/external/HgGI6McoazAhUim4QhQraduwsjcmLpZuEAJfMvxP-mc/https/tr.rbxcdn.com/180DAY-08e8b9103700bebc35e7ac58ff836719/420/420/Image/Png/noFilter?format=png&width=525&height=525",
     "variants": {
       "Base": "61m",
       "Golden": "183m",
@@ -157,7 +171,7 @@
     "name": "Huge Pumpkin Cat",
     "category": "Huges",
     "rarity": "Huge",
-    "image": "images/gigantamax_ogcat.png",
+    "image": "https://images-ext-1.discordapp.net/external/zHAwAaFRDrWxNcz7jVUmAF7dtRcKduox08ZuPYoI6wQ/https/tr.rbxcdn.com/180DAY-67091b6910bbdcf714110201d8144766/420/420/Image/Png/noFilter?format=png&width=525&height=525",
     "variants": {
       "Base": "45m",
       "Golden": "135m",
@@ -171,7 +185,7 @@
     "name": "Huge Party Cat",
     "category": "Huges",
     "rarity": "Huge",
-    "image": "images/gigantamax_ogcat.png",
+    "image": "https://images-ext-1.discordapp.net/external/4ZxcezWoHYgMH6casq92v59kCHNEwod7KPBSw2p9HPE/https/tr.rbxcdn.com/180DAY-7cb23199a455c7bab940a3049e7fcf16/420/420/Image/Png/noFilter?format=png&width=525&height=525",
     "variants": {
       "Base": "64m",
       "Golden": "192m",
@@ -185,7 +199,7 @@
     "name": "Huge Panda",
     "category": "Huges",
     "rarity": "Huge",
-    "image": "images/gigantamax_ogcat.png",
+    "image": "https://images-ext-1.discordapp.net/external/aXu0_z0QH0HYVCuWz0Dn_v0B47iMMugFkJAAHnJRR2U/https/tr.rbxcdn.com/180DAY-1cac0e3be6eefcbeddec459f73504860/420/420/Image/Png/noFilter?format=png&width=525&height=525",
     "variants": {
       "Base": "25m",
       "Golden": "75m",
@@ -199,7 +213,7 @@
     "name": "Huge Machete Dog",
     "category": "Huges",
     "rarity": "Huge",
-    "image": "images/gigantamax_ogcat.png",
+    "image": "https://images-ext-1.discordapp.net/external/GMtCWOEQ4V9e1rLZNeYfrR9BWX0wwbHj22JdikGm8tc/https/tr.rbxcdn.com/180DAY-27217a0a7b3af1f3eea229531f71349e/420/420/Image/Png/noFilter?format=png&width=525&height=525",
     "variants": {
       "Base": "75m",
       "Golden": "225m",
@@ -213,7 +227,7 @@
     "name": "Huge Blurred Dominus",
     "category": "Huges",
     "rarity": "Huge",
-    "image": "images/gigantamax_ogcat.png",
+    "image": "https://images-ext-1.discordapp.net/external/cp88gtlzjrh6UQWnSySRn5DpITAKBMDtuR7ESnHigcw/https/tr.rbxcdn.com/180DAY-a51a74e0d4d8989636f82014e448318a/420/420/Image/Png/noFilter?format=png&width=525&height=525",
     "variants": {
       "Base": "18m",
       "Golden": "54m",
