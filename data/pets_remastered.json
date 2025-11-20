@@ -7,8 +7,8 @@
     "variants": {
       "Base": "1b",
       "Golden": "3b",
-      "Rainbow": "?",
-      "Shiny": "?",
+      "Rainbow": "9b",
+      "Shiny": "9b",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -105,8 +105,8 @@
     "variants": {
       "Base": "35m",
       "Golden": "105m",
-      "Rainbow": "?",
-      "Shiny": "?",
+      "Rainbow": "315m",
+      "Shiny": "315m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -117,10 +117,10 @@
     "rarity": "Huge",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "63m",
-      "Golden": "189m",
-      "Rainbow": "?",
-      "Shiny": "?",
+      "Base": "80m",
+      "Golden": "240m",
+      "Rainbow": "720m",
+      "Shiny": "720m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -133,8 +133,8 @@
     "variants": {
       "Base": "65m",
       "Golden": "195m",
-      "Rainbow": "?",
-      "Shiny": "?",
+      "Rainbow": "585m",
+      "Shiny": "585m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -147,8 +147,8 @@
     "variants": {
       "Base": "61m",
       "Golden": "183m",
-      "Rainbow": "?",
-      "Shiny": "?",
+      "Rainbow": "549m",
+      "Shiny": "549m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -161,8 +161,8 @@
     "variants": {
       "Base": "45m",
       "Golden": "135m",
-      "Rainbow": "?",
-      "Shiny": "?",
+      "Rainbow": "405m",
+      "Shiny": "405m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -175,8 +175,8 @@
     "variants": {
       "Base": "64m",
       "Golden": "192m",
-      "Rainbow": "?",
-      "Shiny": "?",
+      "Rainbow": "576m",
+      "Shiny": "576m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -189,8 +189,8 @@
     "variants": {
       "Base": "25m",
       "Golden": "75m",
-      "Rainbow": "?",
-      "Shiny": "?",
+      "Rainbow": "225m",
+      "Shiny": "225m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -203,8 +203,8 @@
     "variants": {
       "Base": "75m",
       "Golden": "225m",
-      "Rainbow": "?",
-      "Shiny": "?",
+      "Rainbow": "675m",
+      "Shiny": "675m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -217,8 +217,8 @@
     "variants": {
       "Base": "18m",
       "Golden": "54m",
-      "Rainbow": "?",
-      "Shiny": "?",
+      "Rainbow": "162m",
+      "Shiny": "162m",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
