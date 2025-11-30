@@ -372,7 +372,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal 2M Splash Angelus",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -386,7 +386,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal 3M Zen Fish",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -400,7 +400,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Angel Cat",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -414,7 +414,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Anime Agony",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -428,7 +428,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Anime Unicorn",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -442,7 +442,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Arcane Cat",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -456,7 +456,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Arcane Pyro Cat",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -470,7 +470,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Archangel Pog Cat",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -484,7 +484,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Autumn Teddy Bear",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -498,7 +498,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Blue Lucky Block",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -512,7 +512,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Broomstick Cat",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -526,7 +526,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Capybara",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -540,7 +540,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Cat",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -554,7 +554,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal CatBurger",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -568,7 +568,35 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Chicken",
+    "category": "Colossals",
+    "rarity": "Secret",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "1b",
+      "Golden": "3b",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Colossal Chocolatik",
+    "category": "Colossals",
+    "rarity": "Secret",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "1b",
+      "Golden": "3b",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Colossal Corn Hubert",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -582,7 +610,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Cosmic Pegasus",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -596,7 +624,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Diamond Dragon",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -610,7 +638,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Enchanted Fish",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -624,7 +652,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Error Cat",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -638,7 +666,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Fireball Cat",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -652,7 +680,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Frontman Jellyfish",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -666,7 +694,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Hubert",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -680,7 +708,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Hubert Fries",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -694,7 +722,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Job Application Pog Cat",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -708,7 +736,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Little Melty",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -722,7 +750,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Lucki",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -736,7 +764,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal McTemzald's Difference Cat",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -750,7 +778,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Mech Dino",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -764,7 +792,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Nightmare Hubert",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -778,7 +806,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Nightmare Pog Cat",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -792,7 +820,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Ooga Booga",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -806,7 +834,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Party Crown Corgi",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -820,7 +848,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Party Dragon",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -834,7 +862,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Plague Dragon",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -848,7 +876,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Pog Cat",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -862,7 +890,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Pumpkin Cat",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -876,7 +904,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Pumpkin Scarecrow",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -890,7 +918,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Rave Meebo in a Spaceship",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -904,7 +932,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Reaper Cat",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -918,7 +946,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Rockstar Bunny",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -932,7 +960,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Rockstar Wicked Angelus",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -946,7 +974,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Skid",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -960,7 +988,7 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Snowflake Angelus",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
@@ -974,7 +1002,35 @@
     }
   },
   {
-    "name": "Colossal Placeholder",
+    "name": "Colossal Soul Owl",
+    "category": "Colossals",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "1b",
+      "Golden": "3b",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Colossal Turtle",
+    "category": "Colossals",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "1b",
+      "Golden": "3b",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Colossal Vampire Dragon",
     "category": "Colossals",
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
