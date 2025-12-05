@@ -1,5 +1,19 @@
 [
   {
+    "name": "Titanic Starlight Pony",
+    "category": "Titanics",
+    "rarity": "Titanic",
+    "image": "https://images-ext-1.discordapp.net/external/vkPZKv8IRSMG14-g_0Ru5smDt9repJ2YgmuV0pEv2MA/https/tr.rbxcdn.com/180DAY-57f061913e793b61bf08199d54d42c41/420/420/Image/Png/noFilter?format=png&width=525&height=525",
+    "variants": {
+      "Base": "placeholder",
+      "Golden": "placeholder",
+      "Rainbow": "placeholder",
+      "Shiny": "placeholder",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
     "name": "Titanic Ghostface Cat",
     "category": "Titanics",
     "rarity": "Titanic",
@@ -18,6 +32,62 @@
     "category": "Titanics",
     "rarity": "Titanic",
     "image": "https://images-ext-1.discordapp.net/external/onRm_vqDH9HdjInFkdqvl69gRAaxfSCXqN1Mdj0qdsE/https/tr.rbxcdn.com/180DAY-b640a280f8aa3df9ba6e45f0f38e1d2d/420/420/Image/Png/noFilter?format=png&width=525&height=525",
+    "variants": {
+      "Base": "?",
+      "Golden": "?",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Huge Leafy Deer",
+    "category": "Huges",
+    "rarity": "Huge",
+    "image": "https://images-ext-1.discordapp.net/external/fRUb_K3ydnIfp1zpdt8BkbWYPmzlDZAGOUAcv3CYAIY/https/tr.rbxcdn.com/180DAY-ca559c050be7ceb48db4862a3d0f9e2d/420/420/Image/Png/noFilter?format=png&width=525&height=525",
+    "variants": {
+      "Base": "?",
+      "Golden": "?",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Huge Anglerfish",
+    "category": "Huges",
+    "rarity": "Huge",
+    "image": "https://images-ext-1.discordapp.net/external/v0-TJM3ReyX4d-VjDSQ4Fex5Xs6XKegC7e8zhHh_uNE/https/tr.rbxcdn.com/180DAY-d3c651be272df3728229fbb397204129/420/420/Image/Png/noFilter?format=png&width=525&height=525",
+    "variants": {
+      "Base": "?",
+      "Golden": "?",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Huge Shadow Dominus",
+    "category": "Huges",
+    "rarity": "Huge",
+    "image": "https://images-ext-1.discordapp.net/external/7gn7URhXv7nAnUvUu0UvLzIDSFYTlKGzrtctD-D4LqY/https/tr.rbxcdn.com/180DAY-f98d3ac402ba5759c2f73f781bf532fb/420/420/Image/Png/noFilter?format=png&width=525&height=525",
+    "variants": {
+      "Base": "?",
+      "Golden": "?",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Huge Glade Griffin",
+    "category": "Huges",
+    "rarity": "Huge",
+    "image": "https://images-ext-1.discordapp.net/external/Pa_hifJgC2Kgegkb2bCfKqQwcoWnUcuq5dydbui5680/https/tr.rbxcdn.com/180DAY-5cddbac0d4553579d64e83c3d1ccc584/420/420/Image/Png/noFilter?format=png&width=525&height=525",
     "variants": {
       "Base": "?",
       "Golden": "?",
@@ -233,6 +303,20 @@
       "Golden": "54m",
       "Rainbow": "162m",
       "Shiny": "162m",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Shadow Wolf",
+    "category": "Exclusives",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "4B",
+      "Golden": "9B",
+      "Rainbow": "34B",
+      "Shiny": "?",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
     }
@@ -596,6 +680,20 @@
       "Base": "1.3m",
       "Golden": "3.9m",
       "Rainbow": "34B",
+      "Shiny": "?",
+      "Shiny Golden": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Agony",
+    "category": "Stat pets",
+    "rarity": "Exotic",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "placeholder",
+      "Golden": "placeholder",
+      "Rainbow": "placeholder",
       "Shiny": "?",
       "Shiny Golden": "?",
       "Shiny Rainbow": "?"
