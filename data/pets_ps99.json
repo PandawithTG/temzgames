@@ -173,7 +173,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Black=N/A, Red=N/A, Orange=N/A",
+      "Base": "Yellow=O/C, Pink=O/C, Blue=O/C, Black=N/A, Red=N/A, Orange=N/A",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Orange=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Orange=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Black=?, Red=?, Orange=?"
@@ -245,7 +245,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=N/A, Black=N/A",
+      "Base": "Yellow=35q, Pink=45q, Blue=55q, Orange=O/C, Red=N/A, Black=N/A",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Black=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Black=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Black=?"
@@ -269,7 +269,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=N/A, Purple=N/A",
+      "Base": "Yellow=40q, Pink=55q, Blue=75q, Orange=O/C, Red=N/A, Purple=N/A",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
@@ -377,7 +377,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Base": "Yellow=40q, Pink=O/C, Blue=75q, Orange=O/C, Red=O/C, Purple=O/C",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
@@ -437,7 +437,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=N/A, Purple=N/A",
+      "Base": "Yellow=35q, Pink=50q, Blue=70q, Orange=O/C, Red=N/A, Purple=N/A",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
