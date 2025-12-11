@@ -118,7 +118,7 @@ const listWrap = document.getElementById('listWrap');
 const searchInput = document.getElementById('search');
 const categoryFilter = document.getElementById('categoryFilter');
 let activeGame = 'ps99';
-let DATA = { ps99: [], remastered: [] };
+let DATA = { ps99: []};
 
 /* === segédfüggvény: frissíti a select opciókat az activeGame alapján === */
 function updateCategoryFilter() {
@@ -144,11 +144,10 @@ async function loadData() {
       return;
     }
     DATA.ps99 = await ps99Res.json();
-    DATA.remastered = await remRes.json();
     // ha betöltöttük az adatokat, frissítjük a kategória listát és renderelünk
     updateCategoryFilter();
     renderList();
-    console.log('Loaded DATA.ps99 length=', DATA.ps99.length, 'remastered=', DATA.remastered.length);
+    console.log('Loaded DATA.ps99 length=', DATA.ps99.length);
   } catch (err) {
     console.error('loadData error', err);
     listWrap.innerHTML = '<p style="color:var(--muted);padding:12px">Could not load pet data.</p>';
