@@ -269,7 +269,7 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=19.5q, Pink=25q, Blue=30q, Orange=36q, Red=75qq, Green=N/A",
+      "Base": "Yellow=19.5q, Pink=25q, Blue=30q, Orange=36q, Red=75q, Green=N/A",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?"
@@ -305,10 +305,10 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=19.5q, Pink=25q, Blue=30q, Orange=36q, Red=75q, Green=200q",
-      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
-      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
-      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?"
+      "Base": "Yellow=19.5q, Pink=25q, Blue=30q, Orange=36q, Red=75q, Purple=200q",
+      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
     }
   },
   {
@@ -317,10 +317,10 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=19.5q, Pink=25q, Blue=30q, Orange=36q, Red=75q, Green=200q",
-      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
-      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
-      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?"
+      "Base": "Yellow=19.5q, Pink=25q, Blue=30q, Orange=36q, Red=75q, Purple=200q",
+      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
     }
   },
   {
@@ -329,10 +329,10 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=17.5q, Pink=22.5q, Blue=26q, Orange=34q, Red=70q, Green=180q",
-      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
-      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
-      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?"
+      "Base": "Yellow=17.5q, Pink=22.5q, Blue=26q, Orange=34q, Red=70q, Purple=180q",
+      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
     }
   },
   {
@@ -341,10 +341,10 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=N/A, Pink=N/A, Blue=N/A, Orange=N/A, Red=N/A, Green=N/A",
-      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
-      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
-      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?"
+      "Base": "Yellow=N/A, Pink=N/A, Blue=N/A, Orange=N/A, Red=N/A, Purple=N/A",
+      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
     }
   },
   {
@@ -353,10 +353,10 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "Yellow=22q, Pink=27q, Blue=32q, Orange=38q, Red=85q, Green=O/C",
-      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
-      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
-      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?"
+      "Base": "Yellow=22q, Pink=27q, Blue=32q, Orange=38q, Red=85q, Purple=O/C",
+      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?",
+      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Purple=?"
     }
   },
   {
