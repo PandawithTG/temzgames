@@ -5,7 +5,43 @@
     "rarity": "Exclusive",
     "image": "images/gigantamax_ogcat.png",
     "variants": {
-      "Base": "600q",
+      "Base": "640q",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Galactic Cat",
+    "category": "Galactics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "520q",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Galactic Grinch Cat",
+    "category": "Galactics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "720q",
+      "Rainbow": "?",
+      "Shiny": "?",
+      "Shiny Rainbow": "?"
+    }
+  },
+  {
+    "name": "Galactic Santa Paws",
+    "category": "Galactics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "660q",
       "Rainbow": "?",
       "Shiny": "?",
       "Shiny Rainbow": "?"
@@ -222,6 +258,102 @@
     "image": "images/gigantamax_ogcat.png",
     "variants": {
       "Base": "Yellow=17.5q, Pink=22.5q, Blue=26q, Orange=34q, Red=70q, Green=190q",
+      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
+      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
+      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?"
+    }
+  },
+  {
+    "name": "Chromatic Dragon",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "Yellow=19.5q, Pink=25q, Blue=30q, Orange=36q, Red=75qq, Green=N/A",
+      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
+      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
+      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?"
+    }
+  },
+  {
+    "name": "Chromatic Grinch Cat",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "Yellow=21.5q, Pink=25.5q, Blue=31q, Orange=37q, Red=85q, Green=O/C",
+      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
+      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
+      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?"
+    }
+  },
+  {
+    "name": "Chromatic Grinch Hubert",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "Yellow=23.5q, Pink=28.5q, Blue=35.5q, Orange=41q, Red=90q, Green=N/A",
+      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
+      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
+      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?"
+    }
+  },
+  {
+    "name": "Chromatic Nice Cat",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "Yellow=19.5q, Pink=25q, Blue=30q, Orange=36q, Red=75q, Green=200q",
+      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
+      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
+      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?"
+    }
+  },
+  {
+    "name": "Chromatic Nutcracker Bunny",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "Yellow=19.5q, Pink=25q, Blue=30q, Orange=36q, Red=75q, Green=200q",
+      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
+      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
+      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?"
+    }
+  },
+  {
+    "name": "Chromatic Reindeer Cat",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "Yellow=17.5q, Pink=22.5q, Blue=26q, Orange=34q, Red=70q, Green=180q",
+      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
+      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
+      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?"
+    }
+  },
+  {
+    "name": "Chromatic Sleigh Capybara",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "Yellow=N/A, Pink=N/A, Blue=N/A, Orange=N/A, Red=N/A, Green=N/A",
+      "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
+      "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
+      "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?"
+    }
+  },
+  {
+    "name": "Chromatic Zenta Paws",
+    "category": "Chromatics",
+    "rarity": "Exclusive",
+    "image": "images/gigantamax_ogcat.png",
+    "variants": {
+      "Base": "Yellow=22q, Pink=27q, Blue=32q, Orange=38q, Red=85q, Green=O/C",
       "Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
       "Shiny": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?",
       "Shiny Rainbow": "Yellow=?, Pink=?, Blue=?, Orange=?, Red=?, Green=?"
